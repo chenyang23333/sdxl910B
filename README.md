@@ -17,6 +17,7 @@ ONE is short for "ONE for all" and "Optimal generators with No Exception" (credi
 - [VideoComposer](examples/videocomposer): Generate videos with prompts or reference videos via controllable video diffusion (both training and inference are supported)
 
 
+
 ## Awesome List
 
 - [Awesome Large Vision and Foundation Models](awesome_vision.md)
